@@ -80,3 +80,16 @@
     padding-left: 10px;
     padding-right: 10px;
 }
+.section
+{
+    margin-top: 10px;
+}
+.section_left
+{
+    background: rgb(235, 235, 235);
+}
+.section_left .img
+{
+    width: 10%;
+    height: 10%;
+}
